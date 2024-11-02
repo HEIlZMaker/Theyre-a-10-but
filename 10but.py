@@ -2,6 +2,16 @@ import random
 import time 
 duplicateset = set(())
 player = ""
+block=0
+question = 1
+blocklist = 60,60,47,11
+combinations=[]
+for i in sum(blocklist):
+    for i in blocklist[i]:
+        
+
+
+
 
 while player != 'q':
     epoch_time = int(time.time())
@@ -27,4 +37,3 @@ while player != 'q':
         print("press q to exit, any other key to continue")
         player = input()
 #thank you darq for helping me :)
-#help!
