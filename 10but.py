@@ -27,3 +27,4 @@ while player != 'q':
         print("press q to exit, any other key to continue")
         player = input()
 #thank you darq for helping me :)
+#help!
