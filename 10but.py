@@ -21,6 +21,5 @@ while player != 'q':
         print("game finished! There are no more questions")
         break
     print("press q to exit, any other key to continue")
-    print(combinations)
     player = input()
 #thank you darq for helping me :)
