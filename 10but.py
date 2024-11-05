@@ -34,6 +34,7 @@ while player != 'q':
         print("game finished! There are no more questions")
         break
     print("___________________________________________")
+
     player = input()
 #thank you darq for helping me :)
 #thank you straightline for helping 
